@@ -1,0 +1,9 @@
+{
+  "name": "ReCaptchaApp",
+  "version": "1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "angular-recaptcha": "^4.2.0"
+  }
+}
